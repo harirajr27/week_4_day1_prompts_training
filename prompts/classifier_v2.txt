@@ -1,0 +1,18 @@
+Classify the following customer support ticket into exactly one category: Billing, Technical, or General.
+
+Rules:
+- Return ONLY the category name.
+- Do not include punctuation, explanations, or extra text.
+
+Examples:
+Ticket: My app crashes every time I click export.
+Category: Technical
+
+Ticket: Where can I download my invoice?
+Category: Billing
+
+Ticket: What are your business hours?
+Category: General
+
+Ticket: {ticket}
+Category:
