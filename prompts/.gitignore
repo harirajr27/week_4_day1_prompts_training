@@ -1,0 +1,6 @@
+*
+!.gitignore
+!readme.md
+!main2.py
+!prompts/
+!prompts/**

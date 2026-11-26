@@ -1,0 +1,20 @@
+{"id": 1, "ticket": "I was charged twice for my subscription this month.", "expected": "Billing"}
+{"id": 2, "ticket": "My app crashes every time I click the export button.", "expected": "Technical"}
+{"id": 3, "ticket": "What are your customer support operating hours?", "expected": "General"}
+{"id": 4, "ticket": "Where can I download my VAT invoice for October?", "expected": "Billing"}
+{"id": 5, "ticket": "Getting a 502 Bad Gateway error when logging in.", "expected": "Technical"}
+{"id": 6, "ticket": "Do you offer discounts for non-profit organizations?", "expected": "General"}
+{"id": 7, "ticket": "I tried updating my credit card, and now the checkout page freezes.", "expected": "Technical"}
+{"id": 8, "ticket": "Please cancel my auto-renewal before the next cycle.", "expected": "Billing"}
+{"id": 9, "ticket": "How do I invite new team members to my workspace?", "expected": "General"}
+{"id": 10, "ticket": "The mobile app won't sync my offline notes.", "expected": "Technical"}
+{"id": 11, "ticket": "Why did my monthly bill increase by $10?", "expected": "Billing"}
+{"id": 12, "ticket": "Where is your company headquartered?", "expected": "General"}
+{"id": 13, "ticket": "I paid for the Pro plan yesterday, why is my account still showing Free features?", "expected": "Billing"}
+{"id": 14, "ticket": "API requests are timing out after 30 seconds.", "expected": "Technical"}
+{"id": 15, "ticket": "Can I switch from monthly to annual billing?", "expected": "Billing"}
+{"id": 16, "ticket": "Do you have a roadmap for upcoming features?", "expected": "General"}
+{"id": 17, "ticket": "Password reset emails are not arriving in my inbox.", "expected": "Technical"}
+{"id": 18, "ticket": "I need a refund for an accidental add-on purchase.", "expected": "Billing"}
+{"id": 19, "ticket": "Is there a desktop version available for Linux?", "expected": "General"}
+{"id": 20, "ticket": "Two-factor authentication code says invalid even though it is new.", "expected": "Technical"}
